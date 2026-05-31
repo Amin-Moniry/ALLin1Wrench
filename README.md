@@ -4,7 +4,7 @@
   <img src="pics/Logo.webp" alt="ALLin1Wrench Logo" width="200" height="200">
   
   [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-  [![Version](https://img.shields.io/badge/Version-7.0-red.svg)](https://github.com/Amin-moniry-pr7/allin1wrench)
+  [![Version](https://img.shields.io/badge/Version-7.0-red.svg)](https://github.com/Amin-Moniry/allin1wrench)
 </div>
 
 ## 🌟 Overview
@@ -114,7 +114,7 @@ The website is fully responsive across all device sizes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Amin-moniry-pr7/allin1wrench.git
+   git clone https://github.com/Amin-Moniry/allin1wrench.git
    ```
 
 2. **Navigate to project directory**
@@ -194,16 +194,17 @@ See the [LICENSE](LICENSE) file for details or visit [CC BY-NC-ND 4.0](http://cr
 
 ## 👨‍💻 About the Developer
 
-**Amin Moniry** is a passionate developer and content creator specializing in:
+**Amin Moniry** (AminTivanix2) is a passionate developer and content creator specializing in:
 - Full-stack web development
 - Artificial Intelligence and Machine Learning
 - Network administration and security
 - Content creation and digital media
 
 ### Connect With Me
-- 📱 **Telegram**: [@adc7amin7adc](https://t.me/adc7amin7adc)
-- 🎥 **YouTube**: [@adc7aminoid7adc](https://www.youtube.com/@adc7aminoid7adc)
-- 💻 **GitHub**: [Amin-moniry-pr7](https://github.com/Amin-moniry-pr7)
+- 📱 **Telegram**: [@amintivanix2](https://t.me/amintivanix2)
+- 💻 **GitHub**: [Amin-Moniry](https://github.com/Amin-Moniry)
+- 🌐 **Website**: [allin1wrench.ir](https://allin1wrench.ir)
+- 📧 **Email**: [amintivanix2@gmail.com](mailto:amintivanix2@gmail.com)
 
 ## 🚀 Future Roadmap
 
@@ -228,8 +229,6 @@ This is a personal portfolio project. While direct contributions aren't accepted
 ---
 
 <div align="center">
-  <strong>Made with ❤️ by Amin Moniry</strong><br>
-  <sub>© 2025 ALLin1Wrench. All Rights Reserved.</sub>
+  <strong>Made with ❤️ by Amin Moniry (AminTivanix2)</strong><br>
+  <sub>© 2026 ALLin1Wrench. All Rights Reserved.</sub>
 </div>
-
-

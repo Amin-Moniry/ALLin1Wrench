@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Amin Moniry — ALLin1Wrench / REDLINE</title>
+  <meta name="description" content="Amin Moniry: full-stack development, AI, automation and networks. Explore ALLin1Wrench, TeleBrief and BotAM.">
+  <meta name="theme-color" content="#101010"><meta name="color-scheme" content="dark light">
+  <meta property="og:type" content="website"><meta property="og:title" content="Amin Moniry — ALLin1Wrench / REDLINE">
+  <meta property="og:description" content="Make it matter. A personal frequency of design and engineering.">
+  <meta property="og:image" content="https://allin1wrench.ir/pics/Logo.webp"><meta property="og:image:alt" content="Matte red ribbon sculpture">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://allin1wrench.ir/">
+  <meta property="og:url" content="https://allin1wrench.ir/">
+  <link rel="icon" href="redline/assets/favicon.svg" type="image/svg+xml">
+  
+  
+  <link rel="stylesheet" href="redline/assets/font-body.css"><link rel="stylesheet" href="redline/assets/font-body-bold.css"><link rel="stylesheet" href="redline/assets/font-display.css"><link rel="stylesheet" href="redline/styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Amin Moniry","url":"https://allin1wrench.ir/","sameAs":["https://github.com/Amin-Moniry"],"description":"Developer and creator working across web development, AI, automation and networks."}</script>
+  <script src="redline/assets/visuals-0.js" defer></script><script src="redline/assets/visuals-1.js" defer></script><script src="redline/assets/visuals-2.js" defer></script><script src="redline/data.js" defer></script><script src="redline/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div id="preloader" class="preloader" hidden aria-hidden="true"><span>REDLINE / INITIALIZING</span><strong id="load-percent">0%</strong><span id="load-label">Tuning the signal</span><div class="load-track"><i></i></div></div>
+<header class="site-header" id="header"></header>
+<main id="main" tabindex="-1"><noscript><article class="no-js"><span class="eyebrow">AM / REDLINE</span><h1>Make it matter.</h1><p>A portfolio at the intersection of design, code, and curiosity.</p><h2>About / درباره</h2><p>Amin Moniry · امین منیری — Developer & creator</p><h2>Projects / پروژه‌ها</h2><p>ALLin1Wrench — personal portfolio. TeleBrief — AI news bot. BotAM — translation bot.</p><h2>Experience / سابقه</h2><p>A technical journey through computer vision, n8n automation, and AI news projects.</p><h2>Contact / تماس</h2><p>Email delivery is not configured. Enable JavaScript for the interactive portfolio and language controls.</p></article></noscript></main>
+<footer id="footer"></footer>
+<dialog id="command-dialog" class="command-dialog" aria-label="Quick navigation"></dialog>
+<dialog id="project-dialog" aria-labelledby="project-title"></dialog>
+<div id="cursor" class="cursor" hidden aria-hidden="true"><span>↗</span></div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<svg width="0" height="0" class="filter-defs" aria-hidden="true"><defs><filter id="warp"><feTurbulence type="fractalNoise" baseFrequency=".015 .025" numOctaves="1" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="9" xChannelSelector="R" yChannelSelector="G"/></filter></defs></svg>
+</body>
+</html>

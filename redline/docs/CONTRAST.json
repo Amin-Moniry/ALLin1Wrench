@@ -1,0 +1,44 @@
+[
+  {
+    "foreground": "#f3f1ed",
+    "background": "#111112",
+    "ratio": 16.73,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#b0aeb1",
+    "background": "#1b1b1e",
+    "ratio": 7.8,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#ff526f",
+    "background": "#22171a",
+    "ratio": 5.55,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#171719",
+    "background": "#f4f2ed",
+    "ratio": 16.0,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#626067",
+    "background": "#eae7e1",
+    "ratio": 5.02,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#c11237",
+    "background": "#eae0e0",
+    "ratio": 4.76,
+    "normal_text_AA": true
+  },
+  {
+    "foreground": "#ffffff",
+    "background": "#dc143c",
+    "ratio": 4.99,
+    "normal_text_AA": true
+  }
+]

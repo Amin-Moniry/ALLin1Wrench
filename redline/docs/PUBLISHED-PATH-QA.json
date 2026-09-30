@@ -1,0 +1,54 @@
+{
+  "checks": [
+    {
+      "name": "Published root en",
+      "pass": true
+    },
+    {
+      "name": "All media decode en",
+      "pass": true
+    },
+    {
+      "name": "Search navigates actual anchor en",
+      "pass": true
+    },
+    {
+      "name": "Root → case en",
+      "pass": true
+    },
+    {
+      "name": "Case → domain root en",
+      "pass": true
+    },
+    {
+      "name": "Published root fa",
+      "pass": true
+    },
+    {
+      "name": "All media decode fa",
+      "pass": true
+    },
+    {
+      "name": "Search navigates actual anchor fa",
+      "pass": true
+    },
+    {
+      "name": "Root → case fa",
+      "pass": true
+    },
+    {
+      "name": "Case → domain root fa",
+      "pass": true
+    },
+    {
+      "name": "No resource failures",
+      "pass": true
+    },
+    {
+      "name": "No JS errors",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bad": []
+}

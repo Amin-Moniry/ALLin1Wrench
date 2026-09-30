@@ -1,0 +1,8 @@
+{
+  "redline/content/site.js": true,
+  "redline/content/projects.js": true,
+  "redline/scripts/core.js": true,
+  "redline/scripts/interactions.js": true,
+  "redline/scripts/sections.js": true,
+  "redline/scripts/app.js": true
+}

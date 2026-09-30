@@ -1,0 +1,3044 @@
+{
+  "browser": "Chromium",
+  "generated": "2026-09-30T14:11:51.996Z",
+  "base": "http://localhost:8095",
+  "summary": {
+    "passed": 606,
+    "failed": 0,
+    "total": 606
+  },
+  "errors": [],
+  "resourceErrors": [],
+  "checks": [
+    {
+      "name": "No horizontal overflow 360/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 360/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 360/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 360/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 360/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 360/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 360/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 360/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 360/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 360/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 360/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 360/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 360/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 360/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 360/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 360/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 390/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 390/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 390/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 390/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 390/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 390/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 390/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 390/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 390/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 390/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 390/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 390/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 768/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 768/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 768/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 768/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 768/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 768/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 768/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 768/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 768/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 768/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 768/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mobile menu closes on nav 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 768/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1024/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1024/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1024/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1024/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1024/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1024/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1024/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1024/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1024/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1024/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1024/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1024/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1024/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1024/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1024/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1024/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1440/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1440/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1440/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 1440/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1440/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1440/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1440/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 1440/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1440/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1440/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1440/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 1440/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1440/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 1440/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 1440/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Email draft encoded 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No contact network request 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Edited draft invalidates old link 1440/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 2560/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 2560/en/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 2560/en/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 2560/en/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 2560/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 2560/en/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 2560/en/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 2560/en/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 2560/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 2560/fa/dark",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 2560/fa/dark",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 2560/fa/dark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 2560/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Headline fits 2560/fa/light",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "Locale, direction and theme 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 sections, 5 projects 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate IDs 2560/fa/light",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Automation filter 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Restore 5 projects 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture switches 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Architecture keyboard 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search modal opens 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search finds project 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search empty state 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Search escape 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "FAQ expands 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror escapes input 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirror direction 2560/fa/light",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus telebrief/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus telebrief/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus telebrief/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus telebrief/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus executive-bot/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus executive-bot/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus executive-bot/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus executive-bot/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus safevision/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus safevision/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus safevision/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus safevision/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded botam/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow botam/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links botam/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route botam/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded botam/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow botam/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links botam/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route botam/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded botam/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow botam/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links botam/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route botam/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded botam/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow botam/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links botam/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route botam/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus 3d-visualizer/en/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus 3d-visualizer/en/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus 3d-visualizer/fa/390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route loaded 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case no overflow 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case source factual links 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case next route 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image enlargement 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image close restores focus 3d-visualizer/fa/1440",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language switch keeps form values",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language switch sets RTL",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Preferences persist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion enabled normally",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion toggle releases reveal state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case without JavaScript",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Home without JavaScript",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves main",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves home",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves projects",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves about",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves systems",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves lab",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves contact",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /redline/work/telebrief.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /redline/work/executive-bot.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /redline/work/safevision.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /redline/work/botam.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /redline/work/3d-visualizer.html",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves capabilities",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves process",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves buildlog",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves notes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Internal route resolves /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Anchor resolves faq",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No uncaught JavaScript errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No HTTP resource failures",
+      "pass": true,
+      "detail": []
+    }
+  ]
+}

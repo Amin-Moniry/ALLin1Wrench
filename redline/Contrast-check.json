@@ -1,0 +1,44 @@
+[
+  {
+    "pair": "Crimson button / white",
+    "ratio": 4.99,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Dark body",
+    "ratio": 16.74,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Dark secondary",
+    "ratio": 7.94,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Light body",
+    "ratio": 16.74,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Light secondary",
+    "ratio": 5.52,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Dark accent",
+    "ratio": 5.81,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "pair": "Light accent",
+    "ratio": 6.12,
+    "minimum": 4.5,
+    "pass": true
+  }
+]

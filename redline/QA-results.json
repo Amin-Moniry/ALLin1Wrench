@@ -1,0 +1,580 @@
+{
+  "date": "2026-09-30T10:25:36.037Z",
+  "environment": "Headless Chromium / Linux, dependency-free CDP; GitHub-exact text asset bundle",
+  "passed": 113,
+  "total": 113,
+  "checks": [
+    {
+      "name": "No horizontal overflow 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 360/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 360/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 360/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 360/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 390/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 390/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 390/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 390/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 768/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 768/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 768/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "Mobile menu 768/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 1024/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 1024/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "No horizontal overflow 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 1024/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 1024/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "No horizontal overflow 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 1440/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 1440/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "No horizontal overflow 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 1440/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 1440/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "No horizontal overflow 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 2560/en",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 2560/en",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">Open project<span aria-hidden=\\\"true\\\">↗</span></button>\"}"
+    },
+    {
+      "name": "No horizontal overflow 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "RTL/LTR 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sections 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Project dialog 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Gallery keys 2560/fa",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape & focus 2560/fa",
+      "pass": true,
+      "detail": "{\"open\":false,\"focus\":\"<button class=\\\"text-link\\\" data-project=\\\"allin1wrench\\\">نمایش پروژه<span aria-hidden=\\\"true\\\">↖</span></button>\"}"
+    },
+    {
+      "name": "Command opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Command search",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Command opens TeleBrief",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Next project",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Next keeps scroll locked",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Command empty state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Filter product",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Filter study",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Filter all",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Theme toggle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language toggle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Unconfigured newsletter is honest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Unconfigured contact is honest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Newsletter POST payload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mock provider accepted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Provider error preserves input",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Invalid date safe",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Expired countdown safe",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Data-driven new section",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Image failure fallback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No missing asset references",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No-JS fallback",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No runtime exceptions",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "notMeasured": [
+    "Lighthouse",
+    "Full WCAG conformance",
+    "Physical-device FPS",
+    "Live email delivery",
+    "Safari / Firefox"
+  ]
+}

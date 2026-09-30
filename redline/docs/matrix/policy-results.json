@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "name": "ScrollTrigger rail fallback when CSS timelines are unavailable",
+      "pass": true
+    },
+    {
+      "name": "Rain painting pauses while a dialog is open",
+      "pass": true
+    },
+    {
+      "name": "Rain painting pauses under the hidden-document policy",
+      "pass": true
+    },
+    {
+      "name": "Touch/coarse mobile uses native scroll, not Lenis",
+      "pass": true
+    },
+    {
+      "name": "Touch mobile retains the original menu",
+      "pass": true
+    },
+    {
+      "name": "Touch mobile has no horizontal overflow",
+      "pass": true
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "passed": 6,
+    "failed": 0
+  }
+}

@@ -1,0 +1,7 @@
+GSAP and ScrollTrigger 3.12.5
+Copyright 2024 GreenSock. All rights reserved.
+The original distribution headers are retained in gsap.min.js and ScrollTrigger.min.js.
+Those files are subject to the terms at https://gsap.com/standard-license or, for Club GSAP members, the agreement issued with that membership.
+This notice does not replace the vendor's license. The portfolio CC BY-NC-ND license is not applied to these vendor files.
+Source: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/
+Lenis 1.1.20 is distributed under its separate MIT license, retained in Lenis-LICENSE.txt.

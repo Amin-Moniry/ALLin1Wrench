@@ -8,6 +8,8 @@
 
 **Amin Moniry's bilingual portfolio — real builds, visible systems, honest interfaces.**
 
+> **Matrix visual upgrade:** the current site adds a green Matrix animation layer, cinematic introduction, scroll narrative and pointer field without replacing project data or business logic. The crimson screenshots below document the preceding REDLINE baseline. [Animation implementation, tests and rollback guide](redline/docs/MATRIX-UPGRADE.md).
+
 [![Live website](https://img.shields.io/badge/LIVE-allin1wrench.ir-DC143C?style=for-the-badge)](https://allin1wrench.ir/)
 [![Edition](https://img.shields.io/badge/EDITION-REDLINE_03-111112?style=for-the-badge)](#the-idea)
 [![Languages](https://img.shields.io/badge/LANGUAGE-EN_%2B_FA-DC143C?style=for-the-badge)](#bilingual-by-design)

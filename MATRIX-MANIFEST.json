@@ -1,0 +1,115 @@
+{
+  "baselineCommit": "700a629100d7a5d812ff808890c446788e183a49",
+  "branch": "master",
+  "purpose": "Visual-only Matrix enhancement; protected content and business modules unchanged",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "4364a6485cbc2d18f7582ed5dce485c3a88359949f7bda67e30bd460a874ab29"
+    },
+    {
+      "path": "redline/index.html",
+      "sha256": "04b2fac290ee1f87d458616bf9a4f761d09c1aa569fa76eea9c6557ab1d2fd78"
+    },
+    {
+      "path": "redline/work/telebrief.html",
+      "sha256": "e8b5034ea46f673bda64bb3885a85dff20baca3d639da8ae5f52644addf00fb2"
+    },
+    {
+      "path": "redline/work/executive-bot.html",
+      "sha256": "afbc2fe013f46e0edade711597b62876e338489247c72fe3bf6983ba68d07011"
+    },
+    {
+      "path": "redline/work/safevision.html",
+      "sha256": "3c3b31328e9e5e3b2adba90e39be00b69aceb07ab1ad6f63369a43cb950683da"
+    },
+    {
+      "path": "redline/work/botam.html",
+      "sha256": "e8b2dc28a499d24ac4bc00ba5f11dfbb098d5c9ef7321b81c629e94dc8f7c013"
+    },
+    {
+      "path": "redline/work/3d-visualizer.html",
+      "sha256": "dda3a2daeb26741205bfac7431f05e72128a0feac6a1bfba89d927fcf9820280"
+    },
+    {
+      "path": "redline/scripts/motion.js",
+      "sha256": "008bc05f0256921aaa5c5825c9cb3c5be8e0d2b2e895236402549d0f5412fca6"
+    },
+    {
+      "path": "redline/scripts/matrix.js",
+      "sha256": "50bc0e5c3f018383f0effce8766a4e466594cc47d95716f0dc937655920ee363"
+    },
+    {
+      "path": "redline/styles/matrix.css",
+      "sha256": "1da0547d7e56774aff4f13c4a09160cea69c46c2e15c917c6a0df346d9d5eb1d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "44ad4eb93bb4b446215cc6e3602cfc25366dee291a4bb231c3b9f6e3f913dbd2"
+    },
+    {
+      "path": "README.fa.md",
+      "sha256": "d014629ccb31af3992101c3fedbdfd5c8ce0dfed9283dea129fda2f60de26328"
+    },
+    {
+      "path": "INSTALL-MATRIX.fa.md",
+      "sha256": "affa28c150ab815b267c91b06fc5a8f57af6d531b06782c1e5166ba4f3755e0d"
+    },
+    {
+      "path": "redline/docs/MATRIX-UPGRADE.md",
+      "sha256": "c920ddf4fd12e86a5fdcfcaf403ffb0d9f820ec5ba42aa6e5ac397ec972678e2"
+    },
+    {
+      "path": "redline/tests/matrix-root-regression.cjs",
+      "sha256": "7acdd38899eaaee0f9d0d8d349ee4db21835dd655db47576478078d40eb65219"
+    },
+    {
+      "path": "redline/tests/matrix-layer.cjs",
+      "sha256": "16c2b0338c030c9573ced33f336bee05c8ccdc56a1887546bc3d2ae0e8e58bf0"
+    },
+    {
+      "path": "redline/scripts/vendor/GSAP-LICENSE-NOTICE.txt",
+      "sha256": "65cdd3ac49e9d849d00783d17db81e9d0b3617ebe00b76b3dd2ff18d86b92b86"
+    },
+    {
+      "path": "redline/scripts/vendor/Lenis-LICENSE.txt",
+      "sha256": "bba15b1137346a73ed8c35e7f20961a69e0ed842d956a50339240c3e7b08c089"
+    },
+    {
+      "path": "redline/scripts/vendor/ScrollTrigger.min.js",
+      "sha256": "ad33c2df9ada8a663c2147357828f980d0b7ca731ef33eb3c6e4f327c3b2cda5"
+    },
+    {
+      "path": "redline/scripts/vendor/gsap.min.js",
+      "sha256": "28033e449a31ebcc396e5be8b13b63152bf03094288fb5867034321927bce087"
+    },
+    {
+      "path": "redline/scripts/vendor/lenis.min.js",
+      "sha256": "978450a5e7638047c692941acdac7bc25e507289069d033f485569c42c4c7be3"
+    },
+    {
+      "path": "redline/docs/matrix/extra-layout-results.json",
+      "sha256": "4e484e72048623a0ca1a209c3db6802f1305e21bcaa8bad7c9381d20a27d966e"
+    },
+    {
+      "path": "redline/docs/matrix/frame-cadence.json",
+      "sha256": "9da5597a1eaf44a4f9bd88126588555744e953d8fdbbcc2e53e70257f88d11a8"
+    },
+    {
+      "path": "redline/docs/matrix/functional-results.json",
+      "sha256": "11e6db95c712a7650e53357694534696291dc6c9a022399988c1038a7a4e48ba"
+    },
+    {
+      "path": "redline/docs/matrix/policy-results.json",
+      "sha256": "863ef26f7d1260c8c5c4c71d9c85ebc60644f8d6775afb9fba1735dae34e87b4"
+    },
+    {
+      "path": "redline/docs/matrix/protected-files.json",
+      "sha256": "e97e65bf5d2d15df1252513af7f2f39d06489838d855f475b362863b1a03553c"
+    },
+    {
+      "path": "redline/docs/matrix/visual-results.json",
+      "sha256": "d1c2e749c687c4a68186a4f23146553e72186ffeeabe4e3c91119a0482860d6f"
+    }
+  ]
+}

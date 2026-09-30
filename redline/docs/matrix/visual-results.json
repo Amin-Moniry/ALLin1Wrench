@@ -1,0 +1,791 @@
+{
+  "checks": [
+    {
+      "name": "13 original sections / five original projects 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 390/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 390/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 390/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 390/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 768/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 768/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 768/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 768/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 1440/en/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 1440/en/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion off releases effects 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Motion on has one lifecycle 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Portal retains real anchor 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Target section is visible 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nested system transition preserves selected content 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated search still finds project 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Animated dialog focus returns 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field keyboard visual response 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Field reset 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Language rerender no duplicate engines 1440/fa/no-preference",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "13 original sections / five original projects 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Matrix dependencies load 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One matrix canvas 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Canvas budget 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Three visual additions 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion / Lenis policy 1440/fa/reduce",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback section navigation view-transitions",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback original filtering view-transitions",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback section navigation libraries",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback original filtering libraries",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Shared source elements uniquely named",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case route still loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Case has no home-only additions",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Back to home project anchor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Frame sample captured",
+      "pass": true,
+      "detail": {
+        "samples": 120,
+        "median": 16.699999999999818,
+        "p95": 16.800000000000182,
+        "over34ms": 0
+      }
+    },
+    {
+      "name": "No uncaught JavaScript errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No unplanned HTTP failures",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "summary": {
+    "passed": 155,
+    "failed": 0,
+    "total": 155
+  }
+}

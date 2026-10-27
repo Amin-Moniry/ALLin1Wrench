@@ -1,6 +1,6 @@
 # Project sources / REDLINE 03
 
-Five featured projects were curated for breadth, source clarity and distinctive engineering scope, not ranked by production revenue or claimed impact. All ten public repository READMEs were read. Detailed implementation checks covered the files below. Repository screenshots are original publicly published owner material, resized and encoded for delivery. No raw source credentials or workflow secrets are shipped.
+Six featured projects are curated for breadth, source clarity and distinctive engineering scope, not ranked by production revenue or claimed impact. All ten public repository READMEs were read. Detailed implementation checks covered the files below. Repository screenshots are original publicly published owner material, resized and encoded for delivery. No raw source credentials or workflow secrets are shipped.
 
 ## TeleBrief
 - https://github.com/Amin-Moniry/TeleBrief
@@ -10,6 +10,15 @@ Five featured projects were curated for breadth, source clarity and distinctive 
 - https://github.com/Amin-Moniry/TeleBrief/blob/master/localized_bot.py
 - Visual: Original repository artwork
 - Limit: Access depends on Telegram sessions and channel visibility. Generated summaries still need source checking. This portfolio does not certify factual accuracy, throughput or the current uptime of the linked bot.
+
+## Bookly
+- https://github.com/Amin-Moniry/Bookly
+- https://github.com/Amin-Moniry/Bookly/blob/master/README.md
+- https://github.com/Amin-Moniry/Bookly/blob/master/app/ingest.py
+- https://github.com/Amin-Moniry/Bookly/blob/master/app/search.py
+- https://github.com/Amin-Moniry/Bookly/blob/master/app/server.py
+- Visual: Product screenshot from the Bookly repository (`static/main.png`), resized and encoded for delivery
+- Limit: Retrieved passages and page citations support checking but do not guarantee answer accuracy. OCR depends on scan quality; cloud models may receive the question and retrieved passages.
 
 ## Executive Bot
 - https://github.com/Amin-Moniry/n8n_ExecutiveBot_Platform

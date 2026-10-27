@@ -17,6 +17,6 @@ function init(){stop();const enabled=R.state.motion&&!media.matches;document.doc
  if(enabled&&fine.matches){R.$$('.magnetic').forEach(el=>{let raf=0;const move=ev=>{cancelAnimationFrame(raf);raf=requestAnimationFrame(()=>{const r=el.getBoundingClientRect();el.style.transform=`translate(${((ev.clientX-r.left)/r.width-.5)*8}px,${((ev.clientY-r.top)/r.height-.5)*8}px)`})};const leave=()=>{cancelAnimationFrame(raf);el.style.transform=''};el.addEventListener('pointermove',move);el.addEventListener('pointerleave',leave);cleanups.push(()=>{el.removeEventListener('pointermove',move);el.removeEventListener('pointerleave',leave);leave()})})}
  window.MATRIX_FX?.init();
 }
-media.addEventListener('change',()=>{R.state.motion=R.storage.get('redline-motion')!=='off'&&!media.matches;init();R.$('#motion-toggle')?.setAttribute('aria-pressed',String(R.state.motion));window.REDLINE_INTERACTIONS?.resetSignal()});
+media.addEventListener('change',()=>{R.state.motion=!media.matches;init();window.REDLINE_INTERACTIONS?.resetSignal()});
 window.REDLINE_MOTION={init,stop};
 })();

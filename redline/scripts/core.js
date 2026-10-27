@@ -4,7 +4,7 @@
 const storage={get(key){try{return localStorage.getItem(key)}catch{return null}},set(key,value){try{localStorage.setItem(key,value)}catch{}}};
 const q=new URLSearchParams(location.search);
 const savedTheme=storage.get('redline-theme');
-const state={lang:[q.get('lang'),storage.get('redline-lang'),'en'].find(v=>['en','fa'].includes(v)),theme:[q.get('theme'),savedTheme].find(v=>['dark','light'].includes(v))||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'),motion:storage.get('redline-motion')!=='off'&&!matchMedia('(prefers-reduced-motion:reduce)').matches};
+const state={lang:[q.get('lang'),storage.get('redline-lang'),'en'].find(v=>['en','fa'].includes(v)),theme:[q.get('theme'),savedTheme].find(v=>['dark','light'].includes(v))||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'),motion:!matchMedia('(prefers-reduced-motion:reduce)').matches};
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const text=v=>typeof v==='object'&&v!==null?(v[state.lang]||v.en||''):String(v??'');
 const t=k=>text(window.REDLINE_CONTENT.ui[k]);

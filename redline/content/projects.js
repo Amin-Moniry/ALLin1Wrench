@@ -1,6 +1,123 @@
 /* Evidence: owner README files and public source modules. See docs/PROJECT-SOURCES.md. */
 window.REDLINE_PROJECTS = [
   {
+    "id": "bookly",
+    "title": "Bookly",
+    "category": "ai",
+    "repo": "Bookly",
+    "year": "2026",
+    "subtitle": {
+      "en": "Your books. Your answers.",
+      "fa": "کتاب‌هایت؛ پاسخ‌های مستند."
+    },
+    "summary": {
+      "en": "A local-first, bilingual PDF research assistant that finds relevant passages and answers with page-level citations.",
+      "fa": "دستیار پژوهش PDF دوزبانه و محلی‌محور که بخش‌های مرتبط را پیدا می‌کند و با ارجاع صفحه پاسخ می‌دهد."
+    },
+    "tags": [
+      "Python",
+      "RAG",
+      "BM25",
+      "Tesseract OCR"
+    ],
+    "cover": "bookly-main.webp",
+    "mediaType": {
+      "en": "Product screenshot from the Bookly repository",
+      "fa": "اسکرین‌شات رابط Bookly از مخزن پروژه"
+    },
+    "challenge": {
+      "en": "A large PDF library can be difficult to search by meaning, especially when a passage needs to be checked on its original page. Scanned books, Persian text normalization and the choice of AI model add further friction.",
+      "fa": "جست‌وجوی مفهومی در کتابخانه‌ای بزرگ از PDFها دشوار است؛ به‌ویژه وقتی باید متن را در صفحهٔ اصلی بررسی کرد. کتاب‌های اسکن‌شده، نرمال‌سازی متن فارسی و انتخاب مدل هوش مصنوعی نیز پیچیدگی بیشتری ایجاد می‌کنند."
+    },
+    "approach": {
+      "en": "Bookly extracts text from PDFs and falls back to OCR for scanned pages, then builds a hybrid index using dense embeddings and BM25, with optional sparse retrieval. Configurable fusion combines results before a local or cloud model generates a cited answer. The same retrieval engine is also available from a terminal interface.",
+      "fa": "Bookly متن PDFها را استخراج می‌کند و برای صفحات اسکن‌شده از OCR کمک می‌گیرد؛ سپس با embeddingهای معنایی و BM25 ایندکس ترکیبی می‌سازد و امکان بازیابی sparse نیز دارد. نتایج با روش قابل‌تنظیم ترکیب می‌شوند و بعد مدل محلی یا ابری پاسخی همراه با ارجاع تولید می‌کند. همان موتور بازیابی از رابط ترمینال هم در دسترس است."
+    },
+    "features": [
+      {
+        "en": "Bilingual English / Persian interface and Persian-aware text normalization",
+        "fa": "رابط دوزبانهٔ انگلیسی و فارسی با نرمال‌سازی متن فارسی"
+      },
+      {
+        "en": "Hybrid dense + BM25 search with optional sparse retrieval and configurable fusion",
+        "fa": "جست‌وجوی ترکیبی dense و BM25، بازیابی sparse اختیاری و ترکیب قابل‌تنظیم"
+      },
+      {
+        "en": "OCR fallback for scanned PDFs and incremental library sync",
+        "fa": "OCR برای PDFهای اسکن‌شده و همگام‌سازی افزایشی کتابخانه"
+      },
+      {
+        "en": "Page-level citations with local or OpenAI-compatible cloud models",
+        "fa": "ارجاع به صفحه با پشتیبانی از مدل محلی یا مدل ابری سازگار با OpenAI"
+      },
+      {
+        "en": "Web chat and terminal interfaces share the same retrieval engine",
+        "fa": "رابط وب و ترمینال از یک موتور بازیابی مشترک استفاده می‌کنند"
+      }
+    ],
+    "nodes": [
+      {
+        "en": "PDF library",
+        "fa": "کتابخانهٔ PDF"
+      },
+      {
+        "en": "Extract text / OCR",
+        "fa": "استخراج متن / OCR"
+      },
+      {
+        "en": "Hybrid index",
+        "fa": "ایندکس ترکیبی"
+      },
+      {
+        "en": "Retrieve + fuse",
+        "fa": "بازیابی و ترکیب"
+      },
+      {
+        "en": "Local / cloud model",
+        "fa": "مدل محلی / ابری"
+      },
+      {
+        "en": "Answer + page citations",
+        "fa": "پاسخ + ارجاع صفحه"
+      }
+    ],
+    "constraint": {
+      "en": "Grounding answers in retrieved passages does not guarantee that every answer is correct; important claims still need checking against the cited pages. OCR quality depends on scan quality and language data. When a cloud model is selected, the question and retrieved passages may be sent to that provider.",
+      "fa": "مستندکردن پاسخ به بخش‌های بازیابی‌شده، درستی همهٔ پاسخ‌ها را تضمین نمی‌کند؛ ادعاهای مهم باید در صفحات ارجاع‌شده بررسی شوند. کیفیت OCR به کیفیت اسکن و داده‌های زبان بستگی دارد. با انتخاب مدل ابری، پرسش و بخش‌های بازیابی‌شده ممکن است برای آن سرویس‌دهنده ارسال شوند."
+    },
+    "decision": {
+      "en": "Keep the library, extraction, indexing and retrieval local by default, while letting the user choose a local or cloud model. A keyword-only index can be built first, with embeddings added later.",
+      "fa": "کتابخانه، استخراج، ایندکس و بازیابی را به‌طور پیش‌فرض محلی نگه دار و انتخاب مدل محلی یا ابری را به کاربر بسپار. ابتدا می‌توان ایندکس واژه‌ای ساخت و بعداً embeddingها را افزود."
+    },
+    "files": [
+      "app/ingest.py",
+      "app/search.py",
+      "app/server.py"
+    ],
+    "gallery": [
+      "bookly-main.webp"
+    ],
+    "url": "https://github.com/Amin-Moniry/Bookly",
+    "sources": [
+      {
+        "label": "README",
+        "url": "https://github.com/Amin-Moniry/Bookly/blob/master/README.md"
+      },
+      {
+        "label": "app/ingest.py",
+        "url": "https://github.com/Amin-Moniry/Bookly/blob/master/app/ingest.py"
+      },
+      {
+        "label": "app/search.py",
+        "url": "https://github.com/Amin-Moniry/Bookly/blob/master/app/search.py"
+      },
+      {
+        "label": "app/server.py",
+        "url": "https://github.com/Amin-Moniry/Bookly/blob/master/app/server.py"
+      }
+    ]
+  },
+  {
     "id": "telebrief",
     "title": "TeleBrief",
     "category": "ai",

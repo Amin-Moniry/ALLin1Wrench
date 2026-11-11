@@ -1,6 +1,6 @@
 # Project sources / REDLINE 03
 
-Six featured projects are curated for breadth, source clarity and distinctive engineering scope, not ranked by production revenue or claimed impact. All ten public repository READMEs were read. Detailed implementation checks covered the files below. Repository screenshots are original publicly published owner material, resized and encoded for delivery. No raw source credentials or workflow secrets are shipped.
+Seven featured projects are curated for breadth, source clarity and distinctive engineering scope, not ranked by production revenue or claimed impact. All ten public repository READMEs were read. Detailed implementation checks covered the files below. Repository screenshots are original publicly published owner material, resized and encoded for delivery. No raw source credentials or workflow secrets are shipped.
 
 ## TeleBrief
 - https://github.com/Amin-Moniry/TeleBrief
@@ -10,6 +10,15 @@ Six featured projects are curated for breadth, source clarity and distinctive en
 - https://github.com/Amin-Moniry/TeleBrief/blob/master/localized_bot.py
 - Visual: Original repository artwork
 - Limit: Access depends on Telegram sessions and channel visibility. Generated summaries still need source checking. This portfolio does not certify factual accuracy, throughput or the current uptime of the linked bot.
+
+## Pilla
+- https://github.com/Amin-Moniry/Pilla
+- https://github.com/Amin-Moniry/Pilla/blob/master/README.md
+- https://github.com/Amin-Moniry/Pilla/blob/master/src/data/curriculum/lessonBuilder.ts
+- https://github.com/Amin-Moniry/Pilla/blob/master/src/utils/typingEngine.ts
+- https://github.com/Amin-Moniry/Pilla/blob/master/src/utils/metamorphosis.ts
+- Visual: Actual app screenshots from the Pilla repository (`screenshots/dashboard.png`, `screenshots/ergonomics-en.png`), resized and encoded for delivery. The repository's `home-fa.png` was not used because it shows the English interface. The posture-guide photos visible in the ergonomics screenshot are Pexels stock images credited in the app.
+- Limit: Progress is stored locally and does not sync between devices. Multiplayer lobbies and a custom sound-pack recorder are roadmap items, not shipped features. The Windows .exe is not code-signed.
 
 ## Bookly
 - https://github.com/Amin-Moniry/Bookly

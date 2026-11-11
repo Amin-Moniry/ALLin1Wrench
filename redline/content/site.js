@@ -65,8 +65,8 @@ window.REDLINE_CONTENT = {
       "fa": "رفتن به محتوا"
     },
     "all": {
-      "en": "All six",
-      "fa": "هر شش پروژه"
+      "en": "All seven",
+      "fa": "هر هفت پروژه"
     },
     "ai": {
       "en": "AI / News",
@@ -252,9 +252,9 @@ window.REDLINE_CONTENT = {
       "en": "Enlarge image",
       "fa": "بزرگ‌کردن تصویر"
     },
-    "ofSix": {
-      "en": "of 6 projects",
-      "fa": "از ۶ پروژه"
+    "ofSeven": {
+      "en": "of 7 projects",
+      "fa": "از ۷ پروژه"
     }
   },
   "about": {
@@ -323,9 +323,11 @@ window.REDLINE_CONTENT = {
         "JavaScript",
         "CSS",
         "Three.js",
+        "React",
         "PyQt6"
       ],
       "ids": [
+        "pilla",
         "3d-visualizer",
         "safevision"
       ]
@@ -457,8 +459,8 @@ window.REDLINE_CONTENT = {
         "fa": "چه نوع کارهایی اینجا معرفی شده‌اند؟"
       },
       "answer": {
-        "en": "PDF research, Telegram tools, AI filtering, workflow automation, computer vision and browser-based interactive tools. Each featured project links to its own source and technical explanation.",
-        "fa": "پژوهش روی PDF، ابزارهای تلگرام، پالایش هوش مصنوعی، اتوماسیون گردش‌کار، بینایی ماشین و ابزارهای تعاملی مرورگر. هر پروژهٔ منتخب به منبع و توضیح فنی خودش لینک دارد."
+        "en": "A typing tutor, PDF research, Telegram tools, AI filtering, workflow automation, computer vision and browser-based interactive tools. Each featured project links to its own source and technical explanation.",
+        "fa": "مربی تایپ، پژوهش روی PDF، ابزارهای تلگرام، پالایش هوش مصنوعی، اتوماسیون گردش‌کار، بینایی ماشین و ابزارهای تعاملی مرورگر. هر پروژهٔ منتخب به منبع و توضیح فنی خودش لینک دارد."
       }
     },
     {

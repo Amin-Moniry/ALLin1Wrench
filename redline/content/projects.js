@@ -1,6 +1,128 @@
 /* Evidence: owner README files and public source modules. See docs/PROJECT-SOURCES.md. */
 window.REDLINE_PROJECTS = [
   {
+    "id": "pilla",
+    "title": "Pilla",
+    "category": "web",
+    "repo": "Pilla",
+    "year": "2026",
+    "subtitle": {
+      "en": "Type without looking. Grow a butterfly.",
+      "fa": "بدون نگاه‌کردن تایپ کن؛ پروانه‌ات را پرورش بده."
+    },
+    "summary": {
+      "en": "A bilingual Persian and English touch-typing tutor with a 150-lesson curriculum, races, speed tests and a butterfly avatar that evolves with your practice.",
+      "fa": "مربی تایپ ده‌انگشتی دوزبانه، فارسی و انگلیسی، با ۱۵۰ درس، مسابقه، آزمون سرعت و آواتار پروانه‌ای که با تمرین تو تکامل می‌یابد."
+    },
+    "tags": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Electron"
+    ],
+    "cover": "pilla-dashboard.webp",
+    "mediaType": {
+      "en": "Actual app screenshot from the Pilla repository",
+      "fa": "اسکرین‌شات واقعی برنامه از مخزن Pilla"
+    },
+    "challenge": {
+      "en": "Most typing tutors are built around English. Persian typing has its own layout (ISIRI 9147), the half-space (ZWNJ) and different home-row anchors, and long practice sessions are easy to abandon without a sense of progress.",
+      "fa": "بیشتر مربی‌های تایپ برای انگلیسی ساخته شده‌اند. تایپ فارسی چیدمان خودش (ISIRI 9147)، نیم‌فاصله (ZWNJ) و نقاط اتکای متفاوتی دارد و تمرین طولانی بدون حس پیشرفت به‌راحتی رها می‌شود."
+    },
+    "approach": {
+      "en": "Pilla is a React 19 and TypeScript app built with Vite and packaged for Windows with Electron. A lesson builder turns specifications for each language into a fixed curriculum of 150 lessons across 11 stages. A typing engine measures gross and net WPM, CPM, accuracy and consistency using the 5-character-word standard. XP from lessons, drills, races and tests drives a metamorphosis system that evolves an avatar from egg to radiant butterfly. Keyboard sounds are synthesized with the Web Audio API, and progress is stored locally.",
+      "fa": "Pilla یک برنامهٔ React 19 و TypeScript است که با Vite ساخته شده و با Electron برای ویندوز بسته‌بندی می‌شود. سازندهٔ درس‌ها مشخصات هر زبان را به برنامه‌ای ثابت شامل ۱۵۰ درس در ۱۱ مرحله تبدیل می‌کند. موتور تایپ سرعت خام و خالص، CPM، دقت و ثبات را با استاندارد کلمهٔ پنج‌نویسه‌ای می‌سنجد. امتیاز تجربهٔ درس‌ها، تمرین‌ها، مسابقه‌ها و آزمون‌ها سیستم دگردیسی را پیش می‌برد و آواتار را از تخم تا پروانهٔ درخشان تکامل می‌دهد. صدای کلیدها با Web Audio API ساخته می‌شود و پیشرفت به‌صورت محلی ذخیره می‌شود."
+    },
+    "features": [
+      {
+        "en": "150 lessons per language in 11 stages, from posture to master exams",
+        "fa": "۱۵۰ درس برای هر زبان در ۱۱ مرحله، از وضعیت بدن تا آزمون‌های جامع"
+      },
+      {
+        "en": "Persian ISIRI 9147 and US QWERTY virtual keyboards, with ZWNJ handled correctly",
+        "fa": "کیبورد مجازی فارسی ISIRI 9147 و QWERTY آمریکایی با پشتیبانی درست از نیم‌فاصله"
+      },
+      {
+        "en": "Hands overlay with finger zones and home-row bump indicators",
+        "fa": "نمایش دست‌ها با ناحیهٔ هر انگشت و نشانگر برجستگی‌های ردیف خانه"
+      },
+      {
+        "en": "Races against AI bots or your own best-run ghost, plus timed speed tests",
+        "fa": "مسابقه با ربات یا شبح بهترین اجرای خودت، به‌علاوهٔ آزمون سرعت زمان‌دار"
+      },
+      {
+        "en": "Butterfly avatar, streaks, achievements and JSON export of progress",
+        "fa": "آواتار پروانه، روزهای پیاپی، دستاوردها و خروجی JSON از پیشرفت"
+      },
+      {
+        "en": "Fully local: no account, no cloud, installable as a Windows .exe",
+        "fa": "کاملاً محلی: بدون حساب کاربری و فضای ابری، با نصب‌کنندهٔ .exe برای ویندوز"
+      }
+    ],
+    "nodes": [
+      {
+        "en": "Lesson specs (Fa / En)",
+        "fa": "مشخصات درس (فا / En)"
+      },
+      {
+        "en": "Lesson builder",
+        "fa": "سازندهٔ درس"
+      },
+      {
+        "en": "Typing engine",
+        "fa": "موتور تایپ"
+      },
+      {
+        "en": "WPM, accuracy, XP",
+        "fa": "سرعت، دقت، امتیاز"
+      },
+      {
+        "en": "Butterfly stage",
+        "fa": "مرحلهٔ پروانه"
+      },
+      {
+        "en": "Local storage",
+        "fa": "ذخیرهٔ محلی"
+      }
+    ],
+    "constraint": {
+      "en": "Progress lives in the browser or app's local storage, so it does not sync between devices; export it as JSON to move it. Real-time multiplayer lobbies and a custom sound-pack recorder are on the roadmap, not shipped. The Windows .exe is not code-signed, so SmartScreen may show a warning on first launch.",
+      "fa": "پیشرفت در حافظهٔ محلی مرورگر یا برنامه ذخیره می‌شود و بین دستگاه‌ها همگام نمی‌شود؛ برای انتقال، خروجی JSON بگیر. لابی‌های چندنفرهٔ زنده و ضبط بستهٔ صدای شخصی در نقشهٔ راه‌اند و هنوز عرضه نشده‌اند. فایل .exe ویندوز امضای دیجیتال ندارد، پس ممکن است SmartScreen در اولین اجرا هشدار بدهد."
+    },
+    "decision": {
+      "en": "Make the curriculum data-driven and strict: each language track is generated from specs and the builder throws unless there are exactly 150 lessons, so the Persian and English tracks cannot silently drift apart.",
+      "fa": "برنامهٔ درسی را داده‌محور و سخت‌گیرانه بساز: هر مسیر زبانی از روی مشخصات تولید می‌شود و اگر شمار درس‌ها دقیقاً ۱۵۰ نباشد سازنده خطا می‌دهد؛ پس مسیر فارسی و انگلیسی بی‌صدا از هم جدا نمی‌شوند."
+    },
+    "files": [
+      "src/data/curriculum/lessonBuilder.ts",
+      "src/utils/typingEngine.ts",
+      "src/utils/metamorphosis.ts"
+    ],
+    "gallery": [
+      "pilla-dashboard.webp",
+      "pilla-ergonomics.webp"
+    ],
+    "url": "https://github.com/Amin-Moniry/Pilla",
+    "sources": [
+      {
+        "label": "README",
+        "url": "https://github.com/Amin-Moniry/Pilla/blob/master/README.md"
+      },
+      {
+        "label": "src/data/curriculum/lessonBuilder.ts",
+        "url": "https://github.com/Amin-Moniry/Pilla/blob/master/src/data/curriculum/lessonBuilder.ts"
+      },
+      {
+        "label": "src/utils/typingEngine.ts",
+        "url": "https://github.com/Amin-Moniry/Pilla/blob/master/src/utils/typingEngine.ts"
+      },
+      {
+        "label": "src/utils/metamorphosis.ts",
+        "url": "https://github.com/Amin-Moniry/Pilla/blob/master/src/utils/metamorphosis.ts"
+      }
+    ]
+  },
+  {
     "id": "bookly",
     "title": "Bookly",
     "category": "ai",

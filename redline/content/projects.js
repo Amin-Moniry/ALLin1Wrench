@@ -580,7 +580,7 @@ window.REDLINE_PROJECTS = [
       "en": "Editorial architecture diagram · not an app screenshot",
       "fa": "نمودار تحریریهٔ معماری · نه اسکرین‌شات برنامه"
     },
-    "live": "https://t.me/translator7adc7aminbot",
+    "live": "https://t.me/BotamBotamBotamBot",
     "challenge": {
       "en": "Translation can fail because an engine is unavailable, not because the user’s text is unusual. BotAM gives users a familiar Telegram interface and a translation path that can try alternative providers.",
       "fa": "ترجمه ممکن است به‌دلیل در دسترس نبودن موتور شکست بخورد، نه به‌دلیل متن کاربر. BotAM رابط آشنای تلگرام و مسیری ارائه می‌کند که بتواند سرویس‌های جایگزین را امتحان کند."
